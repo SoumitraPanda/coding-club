@@ -18,7 +18,7 @@ public class q3_CWC {
 	        System.out.println (c+" ");
 	        System.out.println (d+" ");
 	        
-	        for(int i=4;i<=n;i++)
+	        for(int i=5;i<=n;i++)
 	        {
 	            
 	            a=b;
